@@ -1,0 +1,155 @@
+Aardvark
+Anteater
+Antelope
+Armadillo
+Aye Aye
+Baboon
+Badger
+Bandicoot
+Bat
+Bear
+Beaver
+Bengal Tiger
+Binturong
+Bison
+Black Bear
+Blue Whale
+Bobcat
+Bongo
+Bonobo
+Brown Bear
+Buffalo
+Camel
+Capybara
+Caracal
+Cat
+Chamois
+Cheetah
+Chimpanzee
+Chinchilla
+Chipmunk
+Coati
+Cougar
+Cow
+Coyote
+Cuscus
+Deer
+Dhole
+Dingo
+Dog
+Dolphin
+Donkey
+Dormouse
+Dugong
+Echidna
+Elephant
+Fennec Fox
+Ferret
+Fossa
+Fox
+Fur Seal
+Gerbil
+Gibbon
+Giraffe
+Goat
+Gopher
+Gorilla
+Grey Seal
+Grizzly Bear
+Guinea Pig
+Hamster
+Hare
+Hedgehog
+Hippopotamus
+Horse
+Howler Monkey
+Human
+Humpback Whale
+Hyena
+Impala
+Indri
+Jackal
+Jaguar
+Kangaroo
+Killer Whale
+Koala
+Kudu
+Lemming
+Lemur
+Leopard
+Liger
+Lion
+Llama
+Lynx
+Manatee
+Mandrill
+Markhor
+Meerkat
+Minke Whale
+Mole
+Mongoose
+Monkey
+Moose
+Mouse
+Mule
+Numbat
+Ocelot
+Okapi
+Opossum
+Orang-utan
+Otter
+Pademelon
+Panther
+Pig
+Pika
+Platypus
+Polar Bear
+Porcupine
+Possum
+Puma
+Quokka
+Quoll
+Rabbit
+Raccoon
+Rat
+Red Panda
+Red Wolf
+Reindeer
+Rhinoceros
+Rock Hyrax
+Saola
+Sea Lion
+Sea Otter
+Seal
+Serval
+Sheep
+Skunk
+Sloth
+Sperm Whale
+Spider Monkey
+Squirrel
+Stoat
+Sun Bear
+Tapir
+Tarsier
+Tasmanian Devil
+Tiger
+Uakari
+Vampire Bat
+Wallaby
+Walrus
+Warthog
+Water Buffalo
+Water Vole
+Weasel
+White Tiger
+Wild Boar
+Wildebeest
+Wolf
+Wolverine
+Wombat
+Yak
+Zebra
+Zebu
+Zonkey
+Zorse
