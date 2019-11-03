@@ -1,5 +1,5 @@
-# GGJ2019
+# Global Game Jam 2019
 
-This is a simple project exploring the possibilities of creating Asynchronous Multiplayer, Using MariaDB and WebSocket.
+This project explores the possibilities of creating Asynchronous Multiplayer using MariaDB and WebSocket.
 
 The game can be played here: http://ggj.mansisaksson.com
